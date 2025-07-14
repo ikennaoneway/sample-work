@@ -1,1 +1,1 @@
-# sample-works
+# sample-work
